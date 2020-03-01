@@ -1,6 +1,6 @@
 # Stock-Market-Neural-Net-Predictor
 
-This project demonstrates the use of a LSTM neural network to predict stock market performance for a specified number of business days in the future. The virtual environment settings are included, so this repository can be opened as a Pycharm project for convenience.
+This project demonstrates the use of a LSTM neural network to predict stock market performance for a specified number of business days in the future.
 
 The command to evaluate the performance of the model is:
 python testsuite.py fulldataset.csv goldstandard.csv (optional: "load")
@@ -17,3 +17,5 @@ This code was based on a tutorial available at https://www.analyticsvidhya.com/b
 All data was obtained from https://www.macrotrends.net/
 
 All code was tested with Python 3.7.
+
+For more information on this project, please contact Brad Aiken at aiken96b@gmail.com
